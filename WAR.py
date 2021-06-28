@@ -1,6 +1,6 @@
 #suit, Rank, value
 
-# make a dictionary for values
+# make a dictionary for values ....
 
 import random
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
